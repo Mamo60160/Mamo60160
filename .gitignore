@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+assets/source-prepped.png
+assets/source-photo*
+*.pyc
+.DS_Store

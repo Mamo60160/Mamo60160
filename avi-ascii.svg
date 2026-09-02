@@ -1,0 +1,483 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="782.0" height="721.0" viewBox="0 0 782.0 721.0" role="img" aria-label="ASCII portrait">
+<rect width="782.0" height="721.0" fill="#0d1117"/>
+<clipPath id="row5"><rect x="16" y="79.0" width="0" height="13.0">
+<animate attributeName="width" from="0" to="766.0" begin="0.140s" dur="0.16s" fill="freeze"/>
+</rect></clipPath>
+<g clip-path="url(#row5)">
+<text x="16" y="93.5" font-family="Menlo, Consolas, monospace" font-size="12.5" fill="#c9d1d9" xml:space="preserve">                                                      ..</text>
+<rect id="cur5" x="16" y="79.0" width="9.0" height="13.0" fill="#c9d1d9" opacity="0.9">
+<animate attributeName="x" from="16" to="766.0" begin="0.140s" dur="0.16s" fill="freeze"/>
+<animate attributeName="opacity" from="0.9" to="0" begin="0.300s" dur="0.05s" fill="freeze"/>
+</rect>
+</g>
+<clipPath id="row6"><rect x="16" y="92.0" width="0" height="13.0">
+<animate attributeName="width" from="0" to="766.0" begin="0.168s" dur="0.16s" fill="freeze"/>
+</rect></clipPath>
+<g clip-path="url(#row6)">
+<text x="16" y="106.5" font-family="Menlo, Consolas, monospace" font-size="12.5" fill="#c9d1d9" xml:space="preserve">                                                        ...........</text>
+<rect id="cur6" x="16" y="92.0" width="9.0" height="13.0" fill="#c9d1d9" opacity="0.9">
+<animate attributeName="x" from="16" to="766.0" begin="0.168s" dur="0.16s" fill="freeze"/>
+<animate attributeName="opacity" from="0.9" to="0" begin="0.328s" dur="0.05s" fill="freeze"/>
+</rect>
+</g>
+<clipPath id="row7"><rect x="16" y="105.0" width="0" height="13.0">
+<animate attributeName="width" from="0" to="766.0" begin="0.196s" dur="0.16s" fill="freeze"/>
+</rect></clipPath>
+<g clip-path="url(#row7)">
+<text x="16" y="119.5" font-family="Menlo, Consolas, monospace" font-size="12.5" fill="#c9d1d9" xml:space="preserve">                                           .`::--==---:``.............</text>
+<rect id="cur7" x="16" y="105.0" width="9.0" height="13.0" fill="#c9d1d9" opacity="0.9">
+<animate attributeName="x" from="16" to="766.0" begin="0.196s" dur="0.16s" fill="freeze"/>
+<animate attributeName="opacity" from="0.9" to="0" begin="0.356s" dur="0.05s" fill="freeze"/>
+</rect>
+</g>
+<clipPath id="row8"><rect x="16" y="118.0" width="0" height="13.0">
+<animate attributeName="width" from="0" to="766.0" begin="0.224s" dur="0.16s" fill="freeze"/>
+</rect></clipPath>
+<g clip-path="url(#row8)">
+<text x="16" y="132.5" font-family="Menlo, Consolas, monospace" font-size="12.5" fill="#c9d1d9" xml:space="preserve">                                       .:-+*ccccccccccccc*=-`............</text>
+<rect id="cur8" x="16" y="118.0" width="9.0" height="13.0" fill="#c9d1d9" opacity="0.9">
+<animate attributeName="x" from="16" to="766.0" begin="0.224s" dur="0.16s" fill="freeze"/>
+<animate attributeName="opacity" from="0.9" to="0" begin="0.384s" dur="0.05s" fill="freeze"/>
+</rect>
+</g>
+<clipPath id="row9"><rect x="16" y="131.0" width="0" height="13.0">
+<animate attributeName="width" from="0" to="766.0" begin="0.252s" dur="0.16s" fill="freeze"/>
+</rect></clipPath>
+<g clip-path="url(#row9)">
+<text x="16" y="145.5" font-family="Menlo, Consolas, monospace" font-size="12.5" fill="#c9d1d9" xml:space="preserve">                                    .:=*cccccccccccccccccsssc+-`...........</text>
+<rect id="cur9" x="16" y="131.0" width="9.0" height="13.0" fill="#c9d1d9" opacity="0.9">
+<animate attributeName="x" from="16" to="766.0" begin="0.252s" dur="0.16s" fill="freeze"/>
+<animate attributeName="opacity" from="0.9" to="0" begin="0.412s" dur="0.05s" fill="freeze"/>
+</rect>
+</g>
+<clipPath id="row10"><rect x="16" y="144.0" width="0" height="13.0">
+<animate attributeName="width" from="0" to="766.0" begin="0.280s" dur="0.16s" fill="freeze"/>
+</rect></clipPath>
+<g clip-path="url(#row10)">
+<text x="16" y="158.5" font-family="Menlo, Consolas, monospace" font-size="12.5" fill="#c9d1d9" xml:space="preserve">                                  .:+cc*****cccccccccccccccccssc=`..........</text>
+<rect id="cur10" x="16" y="144.0" width="9.0" height="13.0" fill="#c9d1d9" opacity="0.9">
+<animate attributeName="x" from="16" to="766.0" begin="0.280s" dur="0.16s" fill="freeze"/>
+<animate attributeName="opacity" from="0.9" to="0" begin="0.440s" dur="0.05s" fill="freeze"/>
+</rect>
+</g>
+<clipPath id="row11"><rect x="16" y="157.0" width="0" height="13.0">
+<animate attributeName="width" from="0" to="766.0" begin="0.308s" dur="0.16s" fill="freeze"/>
+</rect></clipPath>
+<g clip-path="url(#row11)">
+<text x="16" y="171.5" font-family="Menlo, Consolas, monospace" font-size="12.5" fill="#c9d1d9" xml:space="preserve">                                 `+cc********ccccccccccccccccccssc-`.........</text>
+<rect id="cur11" x="16" y="157.0" width="9.0" height="13.0" fill="#c9d1d9" opacity="0.9">
+<animate attributeName="x" from="16" to="766.0" begin="0.308s" dur="0.16s" fill="freeze"/>
+<animate attributeName="opacity" from="0.9" to="0" begin="0.468s" dur="0.05s" fill="freeze"/>
+</rect>
+</g>
+<clipPath id="row12"><rect x="16" y="170.0" width="0" height="13.0">
+<animate attributeName="width" from="0" to="766.0" begin="0.336s" dur="0.16s" fill="freeze"/>
+</rect></clipPath>
+<g clip-path="url(#row12)">
+<text x="16" y="184.5" font-family="Menlo, Consolas, monospace" font-size="12.5" fill="#c9d1d9" xml:space="preserve">                                -*************ccccccccccccsssscccss+`.`.......</text>
+<rect id="cur12" x="16" y="170.0" width="9.0" height="13.0" fill="#c9d1d9" opacity="0.9">
+<animate attributeName="x" from="16" to="766.0" begin="0.336s" dur="0.16s" fill="freeze"/>
+<animate attributeName="opacity" from="0.9" to="0" begin="0.496s" dur="0.05s" fill="freeze"/>
+</rect>
+</g>
+<clipPath id="row13"><rect x="16" y="183.0" width="0" height="13.0">
+<animate attributeName="width" from="0" to="766.0" begin="0.364s" dur="0.16s" fill="freeze"/>
+</rect></clipPath>
+<g clip-path="url(#row13)">
+<text x="16" y="197.5" font-family="Menlo, Consolas, monospace" font-size="12.5" fill="#c9d1d9" xml:space="preserve">                              .=c**************ccccccccccssssssssccs*:``.......</text>
+<rect id="cur13" x="16" y="183.0" width="9.0" height="13.0" fill="#c9d1d9" opacity="0.9">
+<animate attributeName="x" from="16" to="766.0" begin="0.364s" dur="0.16s" fill="freeze"/>
+<animate attributeName="opacity" from="0.9" to="0" begin="0.524s" dur="0.05s" fill="freeze"/>
+</rect>
+</g>
+<clipPath id="row14"><rect x="16" y="196.0" width="0" height="13.0">
+<animate attributeName="width" from="0" to="766.0" begin="0.392s" dur="0.16s" fill="freeze"/>
+</rect></clipPath>
+<g clip-path="url(#row14)">
+<text x="16" y="210.5" font-family="Menlo, Consolas, monospace" font-size="12.5" fill="#c9d1d9" xml:space="preserve">                              =c***************cccccccccssssssssssccs*```.......</text>
+<rect id="cur14" x="16" y="196.0" width="9.0" height="13.0" fill="#c9d1d9" opacity="0.9">
+<animate attributeName="x" from="16" to="766.0" begin="0.392s" dur="0.16s" fill="freeze"/>
+<animate attributeName="opacity" from="0.9" to="0" begin="0.552s" dur="0.05s" fill="freeze"/>
+</rect>
+</g>
+<clipPath id="row15"><rect x="16" y="209.0" width="0" height="13.0">
+<animate attributeName="width" from="0" to="766.0" begin="0.420s" dur="0.16s" fill="freeze"/>
+</rect></clipPath>
+<g clip-path="url(#row15)">
+<text x="16" y="223.5" font-family="Menlo, Consolas, monospace" font-size="12.5" fill="#c9d1d9" xml:space="preserve">                             :******************ccccccccsssssssssssccs+```.......</text>
+<rect id="cur15" x="16" y="209.0" width="9.0" height="13.0" fill="#c9d1d9" opacity="0.9">
+<animate attributeName="x" from="16" to="766.0" begin="0.420s" dur="0.16s" fill="freeze"/>
+<animate attributeName="opacity" from="0.9" to="0" begin="0.580s" dur="0.05s" fill="freeze"/>
+</rect>
+</g>
+<clipPath id="row16"><rect x="16" y="222.0" width="0" height="13.0">
+<animate attributeName="width" from="0" to="766.0" begin="0.448s" dur="0.16s" fill="freeze"/>
+</rect></clipPath>
+<g clip-path="url(#row16)">
+<text x="16" y="236.5" font-family="Menlo, Consolas, monospace" font-size="12.5" fill="#c9d1d9" xml:space="preserve">                            .+******************ccccccccsssssssssssscsc:``.......</text>
+<rect id="cur16" x="16" y="222.0" width="9.0" height="13.0" fill="#c9d1d9" opacity="0.9">
+<animate attributeName="x" from="16" to="766.0" begin="0.448s" dur="0.16s" fill="freeze"/>
+<animate attributeName="opacity" from="0.9" to="0" begin="0.608s" dur="0.05s" fill="freeze"/>
+</rect>
+</g>
+<clipPath id="row17"><rect x="16" y="235.0" width="0" height="13.0">
+<animate attributeName="width" from="0" to="766.0" begin="0.476s" dur="0.16s" fill="freeze"/>
+</rect></clipPath>
+<g clip-path="url(#row17)">
+<text x="16" y="249.5" font-family="Menlo, Consolas, monospace" font-size="12.5" fill="#c9d1d9" xml:space="preserve">                            :*******************ccccccccssssssssssssscs=```......</text>
+<rect id="cur17" x="16" y="235.0" width="9.0" height="13.0" fill="#c9d1d9" opacity="0.9">
+<animate attributeName="x" from="16" to="766.0" begin="0.476s" dur="0.16s" fill="freeze"/>
+<animate attributeName="opacity" from="0.9" to="0" begin="0.636s" dur="0.05s" fill="freeze"/>
+</rect>
+</g>
+<clipPath id="row18"><rect x="16" y="248.0" width="0" height="13.0">
+<animate attributeName="width" from="0" to="766.0" begin="0.504s" dur="0.16s" fill="freeze"/>
+</rect></clipPath>
+<g clip-path="url(#row18)">
+<text x="16" y="262.5" font-family="Menlo, Consolas, monospace" font-size="12.5" fill="#c9d1d9" xml:space="preserve">                            -c******************cccccccsssssssssssssscs*```.......</text>
+<rect id="cur18" x="16" y="248.0" width="9.0" height="13.0" fill="#c9d1d9" opacity="0.9">
+<animate attributeName="x" from="16" to="766.0" begin="0.504s" dur="0.16s" fill="freeze"/>
+<animate attributeName="opacity" from="0.9" to="0" begin="0.664s" dur="0.05s" fill="freeze"/>
+</rect>
+</g>
+<clipPath id="row19"><rect x="16" y="261.0" width="0" height="13.0">
+<animate attributeName="width" from="0" to="766.0" begin="0.532s" dur="0.16s" fill="freeze"/>
+</rect></clipPath>
+<g clip-path="url(#row19)">
+<text x="16" y="275.5" font-family="Menlo, Consolas, monospace" font-size="12.5" fill="#c9d1d9" xml:space="preserve">                            =c*****************ccccccccsssssssssssssscs*```.......</text>
+<rect id="cur19" x="16" y="261.0" width="9.0" height="13.0" fill="#c9d1d9" opacity="0.9">
+<animate attributeName="x" from="16" to="766.0" begin="0.532s" dur="0.16s" fill="freeze"/>
+<animate attributeName="opacity" from="0.9" to="0" begin="0.692s" dur="0.05s" fill="freeze"/>
+</rect>
+</g>
+<clipPath id="row20"><rect x="16" y="274.0" width="0" height="13.0">
+<animate attributeName="width" from="0" to="766.0" begin="0.560s" dur="0.16s" fill="freeze"/>
+</rect></clipPath>
+<g clip-path="url(#row20)">
+<text x="16" y="288.5" font-family="Menlo, Consolas, monospace" font-size="12.5" fill="#c9d1d9" xml:space="preserve">                            -c*****************ccccccccsssssssssssssscs*```.......</text>
+<rect id="cur20" x="16" y="274.0" width="9.0" height="13.0" fill="#c9d1d9" opacity="0.9">
+<animate attributeName="x" from="16" to="766.0" begin="0.560s" dur="0.16s" fill="freeze"/>
+<animate attributeName="opacity" from="0.9" to="0" begin="0.720s" dur="0.05s" fill="freeze"/>
+</rect>
+</g>
+<clipPath id="row21"><rect x="16" y="287.0" width="0" height="13.0">
+<animate attributeName="width" from="0" to="766.0" begin="0.588s" dur="0.16s" fill="freeze"/>
+</rect></clipPath>
+<g clip-path="url(#row21)">
+<text x="16" y="301.5" font-family="Menlo, Consolas, monospace" font-size="12.5" fill="#c9d1d9" xml:space="preserve">                            :*****************cccccccccsssssssssssssscs=```.......</text>
+<rect id="cur21" x="16" y="287.0" width="9.0" height="13.0" fill="#c9d1d9" opacity="0.9">
+<animate attributeName="x" from="16" to="766.0" begin="0.588s" dur="0.16s" fill="freeze"/>
+<animate attributeName="opacity" from="0.9" to="0" begin="0.748s" dur="0.05s" fill="freeze"/>
+</rect>
+</g>
+<clipPath id="row22"><rect x="16" y="300.0" width="0" height="13.0">
+<animate attributeName="width" from="0" to="766.0" begin="0.616s" dur="0.16s" fill="freeze"/>
+</rect></clipPath>
+<g clip-path="url(#row22)">
+<text x="16" y="314.5" font-family="Menlo, Consolas, monospace" font-size="12.5" fill="#c9d1d9" xml:space="preserve">                            .+c**************cccccccccssssssssssssssssc:```.......</text>
+<rect id="cur22" x="16" y="300.0" width="9.0" height="13.0" fill="#c9d1d9" opacity="0.9">
+<animate attributeName="x" from="16" to="766.0" begin="0.616s" dur="0.16s" fill="freeze"/>
+<animate attributeName="opacity" from="0.9" to="0" begin="0.776s" dur="0.05s" fill="freeze"/>
+</rect>
+</g>
+<clipPath id="row23"><rect x="16" y="313.0" width="0" height="13.0">
+<animate attributeName="width" from="0" to="766.0" begin="0.644s" dur="0.16s" fill="freeze"/>
+</rect></clipPath>
+<g clip-path="url(#row23)">
+<text x="16" y="327.5" font-family="Menlo, Consolas, monospace" font-size="12.5" fill="#c9d1d9" xml:space="preserve">                             :c*************ccccccccccsssssssssssssscs+````.......</text>
+<rect id="cur23" x="16" y="313.0" width="9.0" height="13.0" fill="#c9d1d9" opacity="0.9">
+<animate attributeName="x" from="16" to="766.0" begin="0.644s" dur="0.16s" fill="freeze"/>
+<animate attributeName="opacity" from="0.9" to="0" begin="0.804s" dur="0.05s" fill="freeze"/>
+</rect>
+</g>
+<clipPath id="row24"><rect x="16" y="326.0" width="0" height="13.0">
+<animate attributeName="width" from="0" to="766.0" begin="0.672s" dur="0.16s" fill="freeze"/>
+</rect></clipPath>
+<g clip-path="url(#row24)">
+<text x="16" y="340.5" font-family="Menlo, Consolas, monospace" font-size="12.5" fill="#c9d1d9" xml:space="preserve">                              =c**********cccccccccccsssssssssssssscs*:```.......</text>
+<rect id="cur24" x="16" y="326.0" width="9.0" height="13.0" fill="#c9d1d9" opacity="0.9">
+<animate attributeName="x" from="16" to="766.0" begin="0.672s" dur="0.16s" fill="freeze"/>
+<animate attributeName="opacity" from="0.9" to="0" begin="0.832s" dur="0.05s" fill="freeze"/>
+</rect>
+</g>
+<clipPath id="row25"><rect x="16" y="339.0" width="0" height="13.0">
+<animate attributeName="width" from="0" to="766.0" begin="0.700s" dur="0.16s" fill="freeze"/>
+</rect></clipPath>
+<g clip-path="url(#row25)">
+<text x="16" y="353.5" font-family="Menlo, Consolas, monospace" font-size="12.5" fill="#c9d1d9" xml:space="preserve">                              .=cc**c*cccccccccccccccssssssssssssscs*:````.......</text>
+<rect id="cur25" x="16" y="339.0" width="9.0" height="13.0" fill="#c9d1d9" opacity="0.9">
+<animate attributeName="x" from="16" to="766.0" begin="0.700s" dur="0.16s" fill="freeze"/>
+<animate attributeName="opacity" from="0.9" to="0" begin="0.860s" dur="0.05s" fill="freeze"/>
+</rect>
+</g>
+<clipPath id="row26"><rect x="16" y="352.0" width="0" height="13.0">
+<animate attributeName="width" from="0" to="766.0" begin="0.728s" dur="0.16s" fill="freeze"/>
+</rect></clipPath>
+<g clip-path="url(#row26)">
+<text x="16" y="366.5" font-family="Menlo, Consolas, monospace" font-size="12.5" fill="#c9d1d9" xml:space="preserve">                                -cc*cccccccccccccccccssssssssssscss+:````.......</text>
+<rect id="cur26" x="16" y="352.0" width="9.0" height="13.0" fill="#c9d1d9" opacity="0.9">
+<animate attributeName="x" from="16" to="766.0" begin="0.728s" dur="0.16s" fill="freeze"/>
+<animate attributeName="opacity" from="0.9" to="0" begin="0.888s" dur="0.05s" fill="freeze"/>
+</rect>
+</g>
+<clipPath id="row27"><rect x="16" y="365.0" width="0" height="13.0">
+<animate attributeName="width" from="0" to="766.0" begin="0.756s" dur="0.16s" fill="freeze"/>
+</rect></clipPath>
+<g clip-path="url(#row27)">
+<text x="16" y="379.5" font-family="Menlo, Consolas, monospace" font-size="12.5" fill="#c9d1d9" xml:space="preserve">                                 `+ccccccccccccccccccssssssssssssc=`````........</text>
+<rect id="cur27" x="16" y="365.0" width="9.0" height="13.0" fill="#c9d1d9" opacity="0.9">
+<animate attributeName="x" from="16" to="766.0" begin="0.756s" dur="0.16s" fill="freeze"/>
+<animate attributeName="opacity" from="0.9" to="0" begin="0.916s" dur="0.05s" fill="freeze"/>
+</rect>
+</g>
+<clipPath id="row28"><rect x="16" y="378.0" width="0" height="13.0">
+<animate attributeName="width" from="0" to="766.0" begin="0.784s" dur="0.16s" fill="freeze"/>
+</rect></clipPath>
+<g clip-path="url(#row28)">
+<text x="16" y="392.5" font-family="Menlo, Consolas, monospace" font-size="12.5" fill="#c9d1d9" xml:space="preserve">                                   -*ccccccccccccccccccsssccsssc+:`````........</text>
+<rect id="cur28" x="16" y="378.0" width="9.0" height="13.0" fill="#c9d1d9" opacity="0.9">
+<animate attributeName="x" from="16" to="766.0" begin="0.784s" dur="0.16s" fill="freeze"/>
+<animate attributeName="opacity" from="0.9" to="0" begin="0.944s" dur="0.05s" fill="freeze"/>
+</rect>
+</g>
+<clipPath id="row29"><rect x="16" y="391.0" width="0" height="13.0">
+<animate attributeName="width" from="0" to="766.0" begin="0.812s" dur="0.16s" fill="freeze"/>
+</rect></clipPath>
+<g clip-path="url(#row29)">
+<text x="16" y="405.5" font-family="Menlo, Consolas, monospace" font-size="12.5" fill="#c9d1d9" xml:space="preserve">                                    .:=*cccccccccccccccccsssc*=:``````........</text>
+<rect id="cur29" x="16" y="391.0" width="9.0" height="13.0" fill="#c9d1d9" opacity="0.9">
+<animate attributeName="x" from="16" to="766.0" begin="0.812s" dur="0.16s" fill="freeze"/>
+<animate attributeName="opacity" from="0.9" to="0" begin="0.972s" dur="0.05s" fill="freeze"/>
+</rect>
+</g>
+<clipPath id="row30"><rect x="16" y="404.0" width="0" height="13.0">
+<animate attributeName="width" from="0" to="766.0" begin="0.840s" dur="0.16s" fill="freeze"/>
+</rect></clipPath>
+<g clip-path="url(#row30)">
+<text x="16" y="418.5" font-family="Menlo, Consolas, monospace" font-size="12.5" fill="#c9d1d9" xml:space="preserve">                                       .:=*cccccccccccccsc+-:```````.........</text>
+<rect id="cur30" x="16" y="404.0" width="9.0" height="13.0" fill="#c9d1d9" opacity="0.9">
+<animate attributeName="x" from="16" to="766.0" begin="0.840s" dur="0.16s" fill="freeze"/>
+<animate attributeName="opacity" from="0.9" to="0" begin="1.000s" dur="0.05s" fill="freeze"/>
+</rect>
+</g>
+<clipPath id="row31"><rect x="16" y="417.0" width="0" height="13.0">
+<animate attributeName="width" from="0" to="766.0" begin="0.868s" dur="0.16s" fill="freeze"/>
+</rect></clipPath>
+<g clip-path="url(#row31)">
+<text x="16" y="431.5" font-family="Menlo, Consolas, monospace" font-size="12.5" fill="#c9d1d9" xml:space="preserve">                                          =##sssssssss###*`.`````..........</text>
+<rect id="cur31" x="16" y="417.0" width="9.0" height="13.0" fill="#c9d1d9" opacity="0.9">
+<animate attributeName="x" from="16" to="766.0" begin="0.868s" dur="0.16s" fill="freeze"/>
+<animate attributeName="opacity" from="0.9" to="0" begin="1.028s" dur="0.05s" fill="freeze"/>
+</rect>
+</g>
+<clipPath id="row32"><rect x="16" y="430.0" width="0" height="13.0">
+<animate attributeName="width" from="0" to="766.0" begin="0.896s" dur="0.16s" fill="freeze"/>
+</rect></clipPath>
+<g clip-path="url(#row32)">
+<text x="16" y="444.5" font-family="Menlo, Consolas, monospace" font-size="12.5" fill="#c9d1d9" xml:space="preserve">                                          =##############*....`...........</text>
+<rect id="cur32" x="16" y="430.0" width="9.0" height="13.0" fill="#c9d1d9" opacity="0.9">
+<animate attributeName="x" from="16" to="766.0" begin="0.896s" dur="0.16s" fill="freeze"/>
+<animate attributeName="opacity" from="0.9" to="0" begin="1.056s" dur="0.05s" fill="freeze"/>
+</rect>
+</g>
+<clipPath id="row33"><rect x="16" y="443.0" width="0" height="13.0">
+<animate attributeName="width" from="0" to="766.0" begin="0.924s" dur="0.16s" fill="freeze"/>
+</rect></clipPath>
+<g clip-path="url(#row33)">
+<text x="16" y="457.5" font-family="Menlo, Consolas, monospace" font-size="12.5" fill="#c9d1d9" xml:space="preserve">                                       .`:*##############c-:`.  ........</text>
+<rect id="cur33" x="16" y="443.0" width="9.0" height="13.0" fill="#c9d1d9" opacity="0.9">
+<animate attributeName="x" from="16" to="766.0" begin="0.924s" dur="0.16s" fill="freeze"/>
+<animate attributeName="opacity" from="0.9" to="0" begin="1.084s" dur="0.05s" fill="freeze"/>
+</rect>
+</g>
+<clipPath id="row34"><rect x="16" y="456.0" width="0" height="13.0">
+<animate attributeName="width" from="0" to="766.0" begin="0.952s" dur="0.16s" fill="freeze"/>
+</rect></clipPath>
+<g clip-path="url(#row34)">
+<text x="16" y="470.5" font-family="Menlo, Consolas, monospace" font-size="12.5" fill="#c9d1d9" xml:space="preserve">                                   .:+c#%@%##############%@@#s*-`   ..</text>
+<rect id="cur34" x="16" y="456.0" width="9.0" height="13.0" fill="#c9d1d9" opacity="0.9">
+<animate attributeName="x" from="16" to="766.0" begin="0.952s" dur="0.16s" fill="freeze"/>
+<animate attributeName="opacity" from="0.9" to="0" begin="1.112s" dur="0.05s" fill="freeze"/>
+</rect>
+</g>
+<clipPath id="row35"><rect x="16" y="469.0" width="0" height="13.0">
+<animate attributeName="width" from="0" to="766.0" begin="0.980s" dur="0.16s" fill="freeze"/>
+</rect></clipPath>
+<g clip-path="url(#row35)">
+<text x="16" y="483.5" font-family="Menlo, Consolas, monospace" font-size="12.5" fill="#c9d1d9" xml:space="preserve">                                `=c%@@@@@@%##############%@@@@@@%s+:</text>
+<rect id="cur35" x="16" y="469.0" width="9.0" height="13.0" fill="#c9d1d9" opacity="0.9">
+<animate attributeName="x" from="16" to="766.0" begin="0.980s" dur="0.16s" fill="freeze"/>
+<animate attributeName="opacity" from="0.9" to="0" begin="1.140s" dur="0.05s" fill="freeze"/>
+</rect>
+</g>
+<clipPath id="row36"><rect x="16" y="482.0" width="0" height="13.0">
+<animate attributeName="width" from="0" to="766.0" begin="1.008s" dur="0.16s" fill="freeze"/>
+</rect></clipPath>
+<g clip-path="url(#row36)">
+<text x="16" y="496.5" font-family="Menlo, Consolas, monospace" font-size="12.5" fill="#c9d1d9" xml:space="preserve">                             .-c%@@@@@@@@@%%%%%%%%%%%%%%%%@@@@@@@@@@s=.</text>
+<rect id="cur36" x="16" y="482.0" width="9.0" height="13.0" fill="#c9d1d9" opacity="0.9">
+<animate attributeName="x" from="16" to="766.0" begin="1.008s" dur="0.16s" fill="freeze"/>
+<animate attributeName="opacity" from="0.9" to="0" begin="1.168s" dur="0.05s" fill="freeze"/>
+</rect>
+</g>
+<clipPath id="row37"><rect x="16" y="495.0" width="0" height="13.0">
+<animate attributeName="width" from="0" to="766.0" begin="1.036s" dur="0.16s" fill="freeze"/>
+</rect></clipPath>
+<g clip-path="url(#row37)">
+<text x="16" y="509.5" font-family="Menlo, Consolas, monospace" font-size="12.5" fill="#c9d1d9" xml:space="preserve">                           .=#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%+`</text>
+<rect id="cur37" x="16" y="495.0" width="9.0" height="13.0" fill="#c9d1d9" opacity="0.9">
+<animate attributeName="x" from="16" to="766.0" begin="1.036s" dur="0.16s" fill="freeze"/>
+<animate attributeName="opacity" from="0.9" to="0" begin="1.196s" dur="0.05s" fill="freeze"/>
+</rect>
+</g>
+<clipPath id="row38"><rect x="16" y="508.0" width="0" height="13.0">
+<animate attributeName="width" from="0" to="766.0" begin="1.064s" dur="0.16s" fill="freeze"/>
+</rect></clipPath>
+<g clip-path="url(#row38)">
+<text x="16" y="522.5" font-family="Menlo, Consolas, monospace" font-size="12.5" fill="#c9d1d9" xml:space="preserve">                         .+#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%+.</text>
+<rect id="cur38" x="16" y="508.0" width="9.0" height="13.0" fill="#c9d1d9" opacity="0.9">
+<animate attributeName="x" from="16" to="766.0" begin="1.064s" dur="0.16s" fill="freeze"/>
+<animate attributeName="opacity" from="0.9" to="0" begin="1.224s" dur="0.05s" fill="freeze"/>
+</rect>
+</g>
+<clipPath id="row39"><rect x="16" y="521.0" width="0" height="13.0">
+<animate attributeName="width" from="0" to="766.0" begin="1.092s" dur="0.16s" fill="freeze"/>
+</rect></clipPath>
+<g clip-path="url(#row39)">
+<text x="16" y="535.5" font-family="Menlo, Consolas, monospace" font-size="12.5" fill="#c9d1d9" xml:space="preserve">                        -#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%=</text>
+<rect id="cur39" x="16" y="521.0" width="9.0" height="13.0" fill="#c9d1d9" opacity="0.9">
+<animate attributeName="x" from="16" to="766.0" begin="1.092s" dur="0.16s" fill="freeze"/>
+<animate attributeName="opacity" from="0.9" to="0" begin="1.252s" dur="0.05s" fill="freeze"/>
+</rect>
+</g>
+<clipPath id="row40"><rect x="16" y="534.0" width="0" height="13.0">
+<animate attributeName="width" from="0" to="766.0" begin="1.120s" dur="0.16s" fill="freeze"/>
+</rect></clipPath>
+<g clip-path="url(#row40)">
+<text x="16" y="548.5" font-family="Menlo, Consolas, monospace" font-size="12.5" fill="#c9d1d9" xml:space="preserve">                      .*@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@s`</text>
+<rect id="cur40" x="16" y="534.0" width="9.0" height="13.0" fill="#c9d1d9" opacity="0.9">
+<animate attributeName="x" from="16" to="766.0" begin="1.120s" dur="0.16s" fill="freeze"/>
+<animate attributeName="opacity" from="0.9" to="0" begin="1.280s" dur="0.05s" fill="freeze"/>
+</rect>
+</g>
+<clipPath id="row41"><rect x="16" y="547.0" width="0" height="13.0">
+<animate attributeName="width" from="0" to="766.0" begin="1.148s" dur="0.16s" fill="freeze"/>
+</rect></clipPath>
+<g clip-path="url(#row41)">
+<text x="16" y="561.5" font-family="Menlo, Consolas, monospace" font-size="12.5" fill="#c9d1d9" xml:space="preserve">                     :#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%-</text>
+<rect id="cur41" x="16" y="547.0" width="9.0" height="13.0" fill="#c9d1d9" opacity="0.9">
+<animate attributeName="x" from="16" to="766.0" begin="1.148s" dur="0.16s" fill="freeze"/>
+<animate attributeName="opacity" from="0.9" to="0" begin="1.308s" dur="0.05s" fill="freeze"/>
+</rect>
+</g>
+<clipPath id="row42"><rect x="16" y="560.0" width="0" height="13.0">
+<animate attributeName="width" from="0" to="766.0" begin="1.176s" dur="0.16s" fill="freeze"/>
+</rect></clipPath>
+<g clip-path="url(#row42)">
+<text x="16" y="574.5" font-family="Menlo, Consolas, monospace" font-size="12.5" fill="#c9d1d9" xml:space="preserve">                    -%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@=</text>
+<rect id="cur42" x="16" y="560.0" width="9.0" height="13.0" fill="#c9d1d9" opacity="0.9">
+<animate attributeName="x" from="16" to="766.0" begin="1.176s" dur="0.16s" fill="freeze"/>
+<animate attributeName="opacity" from="0.9" to="0" begin="1.336s" dur="0.05s" fill="freeze"/>
+</rect>
+</g>
+<clipPath id="row43"><rect x="16" y="573.0" width="0" height="13.0">
+<animate attributeName="width" from="0" to="766.0" begin="1.204s" dur="0.16s" fill="freeze"/>
+</rect></clipPath>
+<g clip-path="url(#row43)">
+<text x="16" y="587.5" font-family="Menlo, Consolas, monospace" font-size="12.5" fill="#c9d1d9" xml:space="preserve">                   -%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@+</text>
+<rect id="cur43" x="16" y="573.0" width="9.0" height="13.0" fill="#c9d1d9" opacity="0.9">
+<animate attributeName="x" from="16" to="766.0" begin="1.204s" dur="0.16s" fill="freeze"/>
+<animate attributeName="opacity" from="0.9" to="0" begin="1.364s" dur="0.05s" fill="freeze"/>
+</rect>
+</g>
+<clipPath id="row44"><rect x="16" y="586.0" width="0" height="13.0">
+<animate attributeName="width" from="0" to="766.0" begin="1.232s" dur="0.16s" fill="freeze"/>
+</rect></clipPath>
+<g clip-path="url(#row44)">
+<text x="16" y="600.5" font-family="Menlo, Consolas, monospace" font-size="12.5" fill="#c9d1d9" xml:space="preserve">                  :%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@=</text>
+<rect id="cur44" x="16" y="586.0" width="9.0" height="13.0" fill="#c9d1d9" opacity="0.9">
+<animate attributeName="x" from="16" to="766.0" begin="1.232s" dur="0.16s" fill="freeze"/>
+<animate attributeName="opacity" from="0.9" to="0" begin="1.392s" dur="0.05s" fill="freeze"/>
+</rect>
+</g>
+<clipPath id="row45"><rect x="16" y="599.0" width="0" height="13.0">
+<animate attributeName="width" from="0" to="766.0" begin="1.260s" dur="0.16s" fill="freeze"/>
+</rect></clipPath>
+<g clip-path="url(#row45)">
+<text x="16" y="613.5" font-family="Menlo, Consolas, monospace" font-size="12.5" fill="#c9d1d9" xml:space="preserve">                 `#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%:</text>
+<rect id="cur45" x="16" y="599.0" width="9.0" height="13.0" fill="#c9d1d9" opacity="0.9">
+<animate attributeName="x" from="16" to="766.0" begin="1.260s" dur="0.16s" fill="freeze"/>
+<animate attributeName="opacity" from="0.9" to="0" begin="1.420s" dur="0.05s" fill="freeze"/>
+</rect>
+</g>
+<clipPath id="row46"><rect x="16" y="612.0" width="0" height="13.0">
+<animate attributeName="width" from="0" to="766.0" begin="1.288s" dur="0.16s" fill="freeze"/>
+</rect></clipPath>
+<g clip-path="url(#row46)">
+<text x="16" y="626.5" font-family="Menlo, Consolas, monospace" font-size="12.5" fill="#c9d1d9" xml:space="preserve">                 c@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#.</text>
+<rect id="cur46" x="16" y="612.0" width="9.0" height="13.0" fill="#c9d1d9" opacity="0.9">
+<animate attributeName="x" from="16" to="766.0" begin="1.288s" dur="0.16s" fill="freeze"/>
+<animate attributeName="opacity" from="0.9" to="0" begin="1.448s" dur="0.05s" fill="freeze"/>
+</rect>
+</g>
+<clipPath id="row47"><rect x="16" y="625.0" width="0" height="13.0">
+<animate attributeName="width" from="0" to="766.0" begin="1.316s" dur="0.16s" fill="freeze"/>
+</rect></clipPath>
+<g clip-path="url(#row47)">
+<text x="16" y="639.5" font-family="Menlo, Consolas, monospace" font-size="12.5" fill="#c9d1d9" xml:space="preserve">                -@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@+</text>
+<rect id="cur47" x="16" y="625.0" width="9.0" height="13.0" fill="#c9d1d9" opacity="0.9">
+<animate attributeName="x" from="16" to="766.0" begin="1.316s" dur="0.16s" fill="freeze"/>
+<animate attributeName="opacity" from="0.9" to="0" begin="1.476s" dur="0.05s" fill="freeze"/>
+</rect>
+</g>
+<clipPath id="row48"><rect x="16" y="638.0" width="0" height="13.0">
+<animate attributeName="width" from="0" to="766.0" begin="1.344s" dur="0.16s" fill="freeze"/>
+</rect></clipPath>
+<g clip-path="url(#row48)">
+<text x="16" y="652.5" font-family="Menlo, Consolas, monospace" font-size="12.5" fill="#c9d1d9" xml:space="preserve">               .s@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#.</text>
+<rect id="cur48" x="16" y="638.0" width="9.0" height="13.0" fill="#c9d1d9" opacity="0.9">
+<animate attributeName="x" from="16" to="766.0" begin="1.344s" dur="0.16s" fill="freeze"/>
+<animate attributeName="opacity" from="0.9" to="0" begin="1.504s" dur="0.05s" fill="freeze"/>
+</rect>
+</g>
+<clipPath id="row49"><rect x="16" y="651.0" width="0" height="13.0">
+<animate attributeName="width" from="0" to="766.0" begin="1.372s" dur="0.16s" fill="freeze"/>
+</rect></clipPath>
+<g clip-path="url(#row49)">
+<text x="16" y="665.5" font-family="Menlo, Consolas, monospace" font-size="12.5" fill="#c9d1d9" xml:space="preserve">               :@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@=</text>
+<rect id="cur49" x="16" y="651.0" width="9.0" height="13.0" fill="#c9d1d9" opacity="0.9">
+<animate attributeName="x" from="16" to="766.0" begin="1.372s" dur="0.16s" fill="freeze"/>
+<animate attributeName="opacity" from="0.9" to="0" begin="1.532s" dur="0.05s" fill="freeze"/>
+</rect>
+</g>
+<clipPath id="row50"><rect x="16" y="664.0" width="0" height="13.0">
+<animate attributeName="width" from="0" to="766.0" begin="1.400s" dur="0.16s" fill="freeze"/>
+</rect></clipPath>
+<g clip-path="url(#row50)">
+<text x="16" y="678.5" font-family="Menlo, Consolas, monospace" font-size="12.5" fill="#c9d1d9" xml:space="preserve">               +@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@c</text>
+<rect id="cur50" x="16" y="664.0" width="9.0" height="13.0" fill="#c9d1d9" opacity="0.9">
+<animate attributeName="x" from="16" to="766.0" begin="1.400s" dur="0.16s" fill="freeze"/>
+<animate attributeName="opacity" from="0.9" to="0" begin="1.560s" dur="0.05s" fill="freeze"/>
+</rect>
+</g>
+<clipPath id="row51"><rect x="16" y="677.0" width="0" height="13.0">
+<animate attributeName="width" from="0" to="766.0" begin="1.428s" dur="0.16s" fill="freeze"/>
+</rect></clipPath>
+<g clip-path="url(#row51)">
+<text x="16" y="691.5" font-family="Menlo, Consolas, monospace" font-size="12.5" fill="#c9d1d9" xml:space="preserve">               s@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#.</text>
+<rect id="cur51" x="16" y="677.0" width="9.0" height="13.0" fill="#c9d1d9" opacity="0.9">
+<animate attributeName="x" from="16" to="766.0" begin="1.428s" dur="0.16s" fill="freeze"/>
+<animate attributeName="opacity" from="0.9" to="0" begin="1.588s" dur="0.05s" fill="freeze"/>
+</rect>
+</g>
+<clipPath id="row52"><rect x="16" y="690.0" width="0" height="13.0">
+<animate attributeName="width" from="0" to="766.0" begin="1.456s" dur="0.16s" fill="freeze"/>
+</rect></clipPath>
+<g clip-path="url(#row52)">
+<text x="16" y="704.5" font-family="Menlo, Consolas, monospace" font-size="12.5" fill="#c9d1d9" xml:space="preserve">              .#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%`</text>
+<rect id="cur52" x="16" y="690.0" width="9.0" height="13.0" fill="#c9d1d9" opacity="0.9">
+<animate attributeName="x" from="16" to="766.0" begin="1.456s" dur="0.16s" fill="freeze"/>
+<animate attributeName="opacity" from="0.9" to="0" begin="1.616s" dur="0.05s" fill="freeze"/>
+</rect>
+</g>
+</svg>
