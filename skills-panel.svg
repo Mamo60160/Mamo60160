@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="250" viewBox="0 0 860 250" role="img" aria-label="skills and focus">
+<rect width="860" height="250" rx="10" fill="#0d1117" stroke="#30363d"/>
+<style>@keyframes lineIn{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:translateY(0)}}.ln{opacity:0;animation:lineIn .4s ease-out forwards}</style>
+<text class="ln" x="30" y="52" font-family="'JetBrains Mono','Fira Code',Menlo,Consolas,monospace" font-size="13" fill="#3fb950">$ ls skills/ --sort=level</text>
+<g class="ln" style="animation-delay:0.35s">
+<text x="30" y="82" font-family="'JetBrains Mono','Fira Code',Menlo,Consolas,monospace" font-size="12.5" fill="#e6edf3">Python</text>
+<text x="380" y="82" text-anchor="end" font-family="'JetBrains Mono','Fira Code',Menlo,Consolas,monospace" font-size="12" fill="#8b949e">90%</text>
+<rect x="30" y="90" width="350" height="8" rx="4" fill="#21262d"/>
+<rect x="30" y="90" width="0" height="8" rx="4" fill="#7ee787"><animate attributeName="width" from="0" to="315" begin="0.50s" dur="0.8s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.6 0.3 1"/></rect>
+</g>
+<g class="ln" style="animation-delay:0.57s">
+<text x="30" y="122" font-family="'JetBrains Mono','Fira Code',Menlo,Consolas,monospace" font-size="12.5" fill="#e6edf3">AI / Machine Learning</text>
+<text x="380" y="122" text-anchor="end" font-family="'JetBrains Mono','Fira Code',Menlo,Consolas,monospace" font-size="12" fill="#8b949e">84%</text>
+<rect x="30" y="130" width="350" height="8" rx="4" fill="#21262d"/>
+<rect x="30" y="130" width="0" height="8" rx="4" fill="#79c0ff"><animate attributeName="width" from="0" to="294" begin="0.72s" dur="0.8s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.6 0.3 1"/></rect>
+</g>
+<g class="ln" style="animation-delay:0.79s">
+<text x="30" y="162" font-family="'JetBrains Mono','Fira Code',Menlo,Consolas,monospace" font-size="12.5" fill="#e6edf3">Cloud &amp; Infrastructure</text>
+<text x="380" y="162" text-anchor="end" font-family="'JetBrains Mono','Fira Code',Menlo,Consolas,monospace" font-size="12" fill="#8b949e">78%</text>
+<rect x="30" y="170" width="350" height="8" rx="4" fill="#21262d"/>
+<rect x="30" y="170" width="0" height="8" rx="4" fill="#d2a8ff"><animate attributeName="width" from="0" to="273" begin="0.94s" dur="0.8s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.6 0.3 1"/></rect>
+</g>
+<g class="ln" style="animation-delay:1.01s">
+<text x="30" y="202" font-family="'JetBrains Mono','Fira Code',Menlo,Consolas,monospace" font-size="12.5" fill="#e6edf3">Data Engineering</text>
+<text x="380" y="202" text-anchor="end" font-family="'JetBrains Mono','Fira Code',Menlo,Consolas,monospace" font-size="12" fill="#8b949e">74%</text>
+<rect x="30" y="210" width="350" height="8" rx="4" fill="#21262d"/>
+<rect x="30" y="210" width="0" height="8" rx="4" fill="#ffa657"><animate attributeName="width" from="0" to="259" begin="1.16s" dur="0.8s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.6 0.3 1"/></rect>
+</g>
+<text class="ln" style="animation-delay:.3s" x="470" y="52" font-family="'JetBrains Mono','Fira Code',Menlo,Consolas,monospace" font-size="13" fill="#3fb950">$ cat focus.txt</text>
+<g class="ln" style="animation-delay:0.60s">
+<text x="470" y="82" font-family="'JetBrains Mono','Fira Code',Menlo,Consolas,monospace" font-size="12.5" fill="#3fb950">▸ building</text>
+<text x="562" y="82" font-family="'JetBrains Mono','Fira Code',Menlo,Consolas,monospace" font-size="12.5" fill="#e6edf3">Data &amp; AI platform @ Numspot</text>
+</g>
+<g class="ln" style="animation-delay:0.82s">
+<text x="470" y="122" font-family="'JetBrains Mono','Fira Code',Menlo,Consolas,monospace" font-size="12.5" fill="#3fb950">▸ learning</text>
+<text x="562" y="122" font-family="'JetBrains Mono','Fira Code',Menlo,Consolas,monospace" font-size="12.5" fill="#e6edf3">MLOps · cloud architecture</text>
+</g>
+<g class="ln" style="animation-delay:1.04s">
+<text x="470" y="162" font-family="'JetBrains Mono','Fira Code',Menlo,Consolas,monospace" font-size="12.5" fill="#3fb950">▸ goal</text>
+<text x="562" y="162" font-family="'JetBrains Mono','Fira Code',Menlo,Consolas,monospace" font-size="12.5" fill="#e6edf3">ship open-source AI tooling</text>
+</g>
+<g class="ln" style="animation-delay:1.26s">
+<text x="470" y="202" font-family="'JetBrains Mono','Fira Code',Menlo,Consolas,monospace" font-size="12.5" fill="#3fb950">▸ open to</text>
+<text x="562" y="202" font-family="'JetBrains Mono','Fira Code',Menlo,Consolas,monospace" font-size="12.5" fill="#e6edf3">AI &amp; cloud collaborations</text>
+</g>
+</svg>
