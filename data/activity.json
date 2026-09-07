@@ -1,7 +1,17 @@
 {
   "username": "Mamo60160",
-  "updated": "2026-09-06",
+  "updated": "2026-09-07",
   "events": [
+    {
+      "title": "Mamo60160 pushed municipall-backend-public",
+      "repo": "municipall-backend-public",
+      "updated": "2026-09-04 10:43:22 UTC"
+    },
+    {
+      "title": "Mamo60160 pushed municipall-backend-public",
+      "repo": "municipall-backend-public",
+      "updated": "2026-09-04 09:52:10 UTC"
+    },
     {
       "title": "Mamo60160 pushed municipall-backend-public",
       "repo": "municipall-backend-public",
@@ -16,16 +26,6 @@
       "title": "Mamo60160 pushed municipall-backend-public",
       "repo": "municipall-backend-public",
       "updated": "2026-09-04 09:45:20 UTC"
-    },
-    {
-      "title": "Mamo60160 pushed municipall-frontend-public",
-      "repo": "municipall-frontend-public",
-      "updated": "2026-09-04 09:32:34 UTC"
-    },
-    {
-      "title": "Mamo60160 pushed municipall-backend-public",
-      "repo": "municipall-backend-public",
-      "updated": "2026-09-04 11:00:26 UTC"
     }
   ]
 }
